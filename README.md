@@ -1,16 +1,15 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Jesse
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I am a current cybersecurity major at UTSA.
 ## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![Java](https://img.shields.io/badge/Java-blue)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-%20lightgreen?logo=cisco&logoColor=white)
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-%20lightgreen?logo=cisco&logoColor=white)
+![Soccer](https://img.shields.io/badge/Soccer%20-%20crimson)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/JesseP-1)
 
-_"Your sample quote here!"_
+_"I think I can, I think I can, I think I can..." - The Little Engine That Could_
